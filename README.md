@@ -177,6 +177,10 @@ This project is open source and available under the MIT License.
 **Ajay Parmar**
 - GitHub: [@Ajay252005](https://github.com/Ajay252005)
 
+- Ajay Parmar - IAR/14456
+- Soham Shukla - IAR/14409
+- Divyana Sharma - IAR/15739
+
 ## 🙏 Acknowledgments
 
 - Built with [Lovable](https://lovable.dev)
